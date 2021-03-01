@@ -1,0 +1,22 @@
+#MyHobby{
+    font-size: 30px;
+    color:cadetblue;
+    font-family: fantasy;
+}
+#hobby{
+    font-size: 26px;
+    color:indianred;
+    font-family:monospace;
+}
+body{
+    text-align:center;
+    background-color:aqua;
+}
+h3{
+    color:mediumpurple;
+    font-family: cursive;
+}
+#Wue-bik{
+    width:200px;
+    border-radius: 40%;
+}
